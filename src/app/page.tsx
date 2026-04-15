@@ -88,8 +88,8 @@ export default function LandingPage() {
       gridVariant="three-columns-all-equal-width"
       useInvertedBackground={false}
       products={[
-        { id: "p1", name: "Crumblez Original Tee", price: "$35", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108794-7qn3wq5z.png" },
-        { id: "p2", name: "Vibe Hoodie Blue", price: "$75", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-0q5px3zx.png" },
+        { id: "p1", name: "Crumblez Original Tee", price: "$35", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108794-7qn3wq5z.png?_wi=1" },
+        { id: "p2", name: "Vibe Hoodie Blue", price: "$75", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-0q5px3zx.png?_wi=1" },
         { id: "p3", name: "Classic Logo Cap", price: "$30", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-7ilny9w7.png" },
       ]}
       title="Current Collection"
@@ -103,8 +103,8 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={false}
       testimonials={[
-        { id: "1", name: "Chris B.", role: "Fan", testimonial: "Best brand out right now.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108794-7qn3wq5z.png" },
-        { id: "2", name: "Jen D.", role: "Influencer", testimonial: "The graphics are fire, need everything.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-0q5px3zx.png" },
+        { id: "1", name: "Chris B.", role: "Fan", testimonial: "Best brand out right now.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108794-7qn3wq5z.png?_wi=2" },
+        { id: "2", name: "Jen D.", role: "Influencer", testimonial: "The graphics are fire, need everything.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-0q5px3zx.png?_wi=2" },
       ]}
       title="What They Say"
       description="Hear from our community about their favorite Crumblez pieces."
