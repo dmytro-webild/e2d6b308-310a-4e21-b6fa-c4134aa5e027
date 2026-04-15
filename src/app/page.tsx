@@ -47,7 +47,7 @@ export default function LandingPage() {
       title="Fresh, Bold, Unapologetic."
       description="Crumblez brings you streetwear that defines the moment. High-quality designs for those who break the mold."
       testimonials={[
-        { name: "Alex R.", handle: "@alexstreet", testimonial: "The quality is insane, best fits I've owned.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-4xjucgiw.jpg?_wi=1" },
+        { name: "Alex R.", handle: "@alexstreet", testimonial: "The quality is insane, best fits I've owned.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776286221507-zmgcte3d.png" },
         { name: "Maya J.", handle: "@mayacloth", testimonial: "Crumblez designs are just on another level.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108794-7qn3wq5z.png?_wi=1" },
         { name: "Sam K.", handle: "@samstyle", testimonial: "Always getting compliments in these pieces.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-0q5px3zx.png?_wi=1" },
         { name: "Jordan P.", handle: "@jordy_fashion", testimonial: "Bold and comfortable, my new go-to brand.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-7ilny9w7.png?_wi=1" },

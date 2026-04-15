@@ -13,11 +13,11 @@
   --background: #0a0a0a;
   --card: #1a1a1a;
   --foreground: #ffffff;
-  --primary-cta: #1f7cff;
+  --primary-cta: #e63946;
   --primary-cta-text: #ffffff;
   --secondary-cta: #010101;
   --secondary-cta-text: #ffffff;
-  --accent: #1f7cff;
+  --accent: #e63946;
   --background-accent: #f96b2f;
 
   /* text sizing - set by ThemeProvider */
