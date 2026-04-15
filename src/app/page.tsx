@@ -103,8 +103,9 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={false}
       testimonials={[
-        { id: "1", name: "Chris B.", role: "Fan", testimonial: "Best brand out right now.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108794-7qn3wq5z.png?_wi=2" },
-        { id: "2", name: "Jen D.", role: "Influencer", testimonial: "The graphics are fire, need everything.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-0q5px3zx.png?_wi=2" },
+        { id: "1", name: "Chris B.", role: "Fan", testimonial: "Best brand out right now.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776286068241-1t8k0o37.png" },
+        { id: "2", name: "Jen D.", role: "Influencer", testimonial: "The graphics are fire, need everything.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776286068242-a3qnfwwm.png" },
+        { id: "3", name: "Mark L.", role: "Customer", testimonial: "Crumblez gear fits perfect every time.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776286068242-26j78xlf.png" },
       ]}
       title="What They Say"
       description="Hear from our community about their favorite Crumblez pieces."
