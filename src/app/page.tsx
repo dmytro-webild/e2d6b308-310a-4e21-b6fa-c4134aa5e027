@@ -65,35 +65,35 @@ export default function LandingPage() {
           handle: "@alexstreet",
           testimonial: "The quality is insane, best fits I've owned.",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=j46zc5",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=j46zc5&_wi=1",
         },
         {
           name: "Maya J.",
           handle: "@mayacloth",
           testimonial: "Crumblez designs are just on another level.",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=dmu4jm",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=dmu4jm&_wi=1",
         },
         {
           name: "Sam K.",
           handle: "@samstyle",
           testimonial: "Always getting compliments in these pieces.",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=30iz1p",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=30iz1p&_wi=1",
         },
         {
           name: "Jordan P.",
           handle: "@jordy_fashion",
           testimonial: "Bold and comfortable, my new go-to brand.",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=x485rl",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=x485rl&_wi=1",
         },
         {
           name: "Taylor V.",
           handle: "@tay_street",
           testimonial: "Obsessed with the cut and fabric quality.",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=ll87i6",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=ll87i6&_wi=1",
         },
       ]}
       buttons={[
@@ -102,7 +102,7 @@ export default function LandingPage() {
           href: "#products",
         },
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-4xjucgiw.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-4xjucgiw.jpg?_wi=1"
       imageAlt="Crumblez clothing hero"
       avatars={[
         {
@@ -200,13 +200,13 @@ export default function LandingPage() {
           id: "p5",
           name: "Logo Graphic Hoodie",
           price: "$80",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-4xjucgiw.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-4xjucgiw.jpg?_wi=2",
         },
         {
           id: "p6",
           name: "Crumblez Beanie",
           price: "$25",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=j46zc5",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=j46zc5&_wi=2",
         },
       ]}
       title="Current Collection"
@@ -224,35 +224,35 @@ export default function LandingPage() {
           name: "Chris B.",
           role: "Fan",
           testimonial: "Best brand out right now.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=j46zc5",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=j46zc5&_wi=3",
         },
         {
           id: "2",
           name: "Jen D.",
           role: "Influencer",
           testimonial: "The graphics are fire, need everything.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=dmu4jm",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=dmu4jm&_wi=2",
         },
         {
           id: "3",
           name: "Luke F.",
           role: "Customer",
           testimonial: "Shipping was fast and fit is perfect.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=30iz1p",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=30iz1p&_wi=2",
         },
         {
           id: "4",
           name: "Sarah H.",
           role: "Fan",
           testimonial: "So comfortable, I wear it daily.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=x485rl",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=x485rl&_wi=2",
         },
         {
           id: "5",
           name: "Mike P.",
           role: "Customer",
           testimonial: "Top tier quality and style.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=ll87i6",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=ll87i6&_wi=2",
         },
       ]}
       title="What They Say"
@@ -311,7 +311,7 @@ export default function LandingPage() {
       title="Stay Updated"
       description="Sign up for new drops."
       mediaAnimation="slide-up"
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-4xjucgiw.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-4xjucgiw.jpg?_wi=3"
     />
   </div>
 
