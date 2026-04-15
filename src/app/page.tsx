@@ -47,14 +47,14 @@ export default function LandingPage() {
       title="Fresh, Bold, Unapologetic."
       description="Crumblez brings you streetwear that defines the moment. High-quality designs for those who break the mold."
       testimonials={[
-        { name: "Alex R.", handle: "@alexstreet", testimonial: "The quality is insane, best fits I've owned.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=j46zc5" },
-        { name: "Maya J.", handle: "@mayacloth", testimonial: "Crumblez designs are just on another level.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=dmu4jm" },
+        { name: "Alex R.", handle: "@alexstreet", testimonial: "The quality is insane, best fits I've owned.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=j46zc5&_wi=1" },
+        { name: "Maya J.", handle: "@mayacloth", testimonial: "Crumblez designs are just on another level.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=dmu4jm&_wi=1" },
         { name: "Sam K.", handle: "@samstyle", testimonial: "Always getting compliments in these pieces.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=30iz1p" },
         { name: "Jordan P.", handle: "@jordy_fashion", testimonial: "Bold and comfortable, my new go-to brand.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=x485rl" },
         { name: "Taylor V.", handle: "@tay_street", testimonial: "Obsessed with the cut and fabric quality.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=ll87i6" },
       ]}
       buttons={[{ text: "Shop Now", href: "#products" }]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-4xjucgiw.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-4xjucgiw.jpg?_wi=1"
       imageAlt="Crumblez clothing hero"
       avatars={[
         { src: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-4xjucgiw.jpg", alt: "Happy customer" },
@@ -103,8 +103,8 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={false}
       testimonials={[
-        { id: "1", name: "Chris B.", role: "Fan", testimonial: "Best brand out right now.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=j46zc5" },
-        { id: "2", name: "Jen D.", role: "Influencer", testimonial: "The graphics are fire, need everything.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=dmu4jm" },
+        { id: "1", name: "Chris B.", role: "Fan", testimonial: "Best brand out right now.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=j46zc5&_wi=2" },
+        { id: "2", name: "Jen D.", role: "Influencer", testimonial: "The graphics are fire, need everything.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=dmu4jm&_wi=2" },
       ]}
       title="What They Say"
       description="Hear from our community about their favorite Crumblez pieces."
@@ -143,7 +143,7 @@ export default function LandingPage() {
       title="Stay Updated"
       description="Sign up for new drops."
       mediaAnimation="slide-up"
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-4xjucgiw.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-4xjucgiw.jpg?_wi=2"
     />
   </div>
 
