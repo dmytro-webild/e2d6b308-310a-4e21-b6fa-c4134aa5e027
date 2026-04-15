@@ -141,8 +141,8 @@ export default function LandingPage() {
       tag="Contact"
       useInvertedBackground={false}
       background={{ variant: "plain" }}
-      title="Stay Updated"
-      description="Sign up for new drops."
+      title="Support"
+      description="Questions? Reach us at SupportCrumblez@proton.me"
       mediaAnimation="slide-up"
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYVqUGh9AA7nPixj8GIA5myirn/uploaded-1776285108795-4xjucgiw.jpg?_wi=2"
     />
